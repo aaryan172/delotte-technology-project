@@ -1,0 +1,34 @@
+[
+  {
+    "deviceID": "DEV002",
+    "deviceType": "Motor",
+    "timestamp": "2024-10-01T12:05:00Z",
+    "location": {
+      "country": "USA",
+      "city": "NewYork",
+      "area": "Area1",
+      "factory": "FactoryA",
+      "section": "Section2"
+    },
+    "data": {
+      "status": "idle",
+      "temperature": 45.2
+    }
+  },
+  {
+    "deviceID": "DEV003",
+    "deviceType": "Sensor",
+    "timestamp": "2024-10-01T12:10:00Z",
+    "location": {
+      "country": "USA",
+      "city": "NewYork",
+      "area": "Area2",
+      "factory": "FactoryB",
+      "section": "Section1"
+    },
+    "data": {
+      "status": "active",
+      "temperature": 28.1
+    }
+  }
+]
