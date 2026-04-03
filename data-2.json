@@ -1,0 +1,15 @@
+[{
+  "deviceID": "DEV002",
+  "deviceType": "Motor",
+  "timestamp": "2024-10-01T12:05:00Z",
+  "location": "USA/NewYork/Area1/FactoryA/Section2",
+  "operationStatus": "idle",
+  "temp": 45.2
+}, {
+  "deviceID": "DEV003",
+  "deviceType": "Sensor",
+  "timestamp": "2024-10-01T12:10:00Z",
+  "location": "USA/NewYork/Area2/FactoryB/Section1",
+  "operationStatus": "active",
+  "temp": 28.1
+}]
